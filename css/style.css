@@ -1,0 +1,14 @@
+.btn {
+  width: 150px;
+}
+.card {
+  width: 350px;
+  padding: 25px !important;
+  border: 1px solid black !important;
+  border-radius: 15px;
+  transition: 0.3s ease-in-out;
+  height: 220px !important;
+}
+.card:hover {
+  transform: scale(1.04);
+}

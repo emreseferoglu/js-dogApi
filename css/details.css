@@ -1,0 +1,20 @@
+.accordion {
+  width: 500px !important; /* Accordion genişliği */
+  margin: 0 auto; /* Ortalamak için */
+}
+.accordion-button {
+  background-color: transparent;
+  border: none;
+  box-shadow: none;
+  color: #000;
+}
+.accordion-button:not(.collapsed) {
+  background-color: transparent !important;
+  color: #000;
+}
+.accordion-body {
+  background-color: transparent;
+}
+.accordion-item {
+  border: none;
+}
